@@ -85,7 +85,7 @@ budgettracker/
 
 1. **Скачайте проект**  
    ```bash
-   git clone https://github.com/your-username/budgettracker.git
+   git clone https://github.com/BagroDeRose/budgettracker.git
 
 2. **Разместите файлы на сервере**  
    Переместите папку `budgettracker` в директорию веб-сервера:  
