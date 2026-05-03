@@ -69,6 +69,7 @@ budgettracker/
 ├── profile.php          # Настройки профиля (пароль, email, аватар)
 ├── index.php            # Точка входа (редирект)
 └── README.md            # Документация
+```
 
 ---
 
